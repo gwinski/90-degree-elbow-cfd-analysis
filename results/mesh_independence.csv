@@ -1,0 +1,5 @@
+element_size_mm,nodes,cells,orthogonal_quality_min,skewness_max,inlet_total_pressure_Pa,outlet_total_pressure_Pa,pressure_drop_Pa
+10,32234,78696,0.206,0.794,3643.9,2050.9,1593.0
+7,42547,106218,0.202,0.798,3609.5,2050.1,1559.3
+5,86636,230857,0.206,0.794,3566.4,2049.9,1516.5
+4,136728,370393,0.201,0.799,3557.1,2049.9,1507.2
